@@ -37,7 +37,7 @@
 ### Steps
 
 1. Beaten the eggs and add salts and peppers
-2. Bath the bread and cook it (**DO NOT USE IRON LIKE THE FIRST RECIPE TO COOK THIS. USE PROPER COOKING TOOLS**). Don't forget to turn back the other side. Don't undercooked it (it tastes worst if undercooked).
+2. Bath the bread to egg and cook it (**DO NOT USE IRON LIKE THE FIRST RECIPE TO COOK THIS. USE PROPER COOKING TOOLS**). Don't forget to turn back the other side. Don't undercooked it (it tastes worst if undercooked).
 3. Slices the bread and serve.
 
 ### Additional Notes
@@ -51,17 +51,17 @@
 
 ### Ingredients
 
-1. Fried Noodles (I prefer to use Indomie's fried noodles because the taste is beyond other noodles!)
+1. Fried Noodles (**I prefer to use Indomie's fried noodles because the taste is beyond other noodles!**)
 2. Sliced bread
 3. An egg
 4. Additionals: vegetables and seasoning
 
 ### Steps
 
-1. Serve the noodle first. Follow the instructions and make sure is cooked well.
+1. Serve the noodle first. Follow the instructions and make sure it's cooked well.
 2. Heat the pan and put the breads first. Till is get little bit brown, cook the egg. I prefer with the sunny side up (you can half-cooked it).
-3. Put a half of the noodle to the upside bread. Add the egg and the rest of the noodle andthen the other bread. Don't overcooked it. Just do it like other sandwich.
-4. Put it on the plate, slices the sandwich diagonally and serve.
+3. Put a half of the noodle to the upside bread. Add the egg and the rest of the noodle and then the other bread. Don't overcooked it. Just do it like other sandwich. Caution the noodle is already well served and if you overcooked it, the noodle will dried up.
+4. Put it on the plate, slice the sandwich diagonally and serve.
 
 ### Additional notes
 
