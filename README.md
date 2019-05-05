@@ -3,6 +3,7 @@
 My own recipes for my coding activity including meal and beverage. Feel free to try your own. These recipes are made based on my taste of food, might be weird for you.
 
 [Beverages :coffee:](https://github.com/otakbeku/my-recipes/blob/master/Beverages.md)
+
 [Meals :bento:](https://github.com/otakbeku/my-recipes/blob/master/Meals.md)
 
 ---
