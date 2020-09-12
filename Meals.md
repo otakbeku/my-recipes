@@ -106,7 +106,7 @@
 5. Salt
 6. Pepper
 7. 1 clove garlic, minced of course + a pinch of garlic powder
-8. Parsley
+8. Parsley (Unfortunately I don't have any)
 9. Milk! A cup with room temperature or you can heat it first. I think I will use goat milk again
 10. Cheese! Cheddar + parmesan (powder)
 
