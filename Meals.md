@@ -134,10 +134,10 @@
 
 **Rice**
 
-- 2 cups (1 cup = 110ml) of rice. Using brasmati rice is recommended. I'm using long-grain rice btw and it's fine
+- 2 cups (1 cup = 110ml) of rice. Using basmati rice is recommended. I'm using long-grain rice btw and it's fine
 - Oil, 1-2 tablespoon. I'm using olive oil, but using any vegetable oil should be fine
 - 2 tablespoon caraway. It's recommended to using curmin at the same amount
-- 1 tablespoon tumeric
+- 1 tablespoon turmeric
 - 2 cups of water (220 ml)
 - 1 cups of chicken broth
 - A pinch of salt
@@ -159,9 +159,9 @@ Steps
 
 **Rice**
 
-Here, I'm using rice cooker that common in Indonesia
+Here, I'm using a rice cooker that common in Indonesia
 
-1. Heat the oil on the inner bowl, add tumeric, caraway. Stir well then add chicken broth, water, rice and a pinch of salt. If you're using rice cooker like me, for every period of time, to take a look and stir the rice (? pardon for my poor choice of words). If its already boiled, leave it.
+1. Heat the oil on the inner bowl, add turmeric, caraway. Stir well then add chicken broth, water, rice, and a pinch of salt. If you're using rice cooker like me, for every period of time, take a look and stir the rice (? pardon for my poor choice of words). If it's already boiled, leave it.
 2. wait till the rice is cooked.
 
 ![rice](Pictures/Meals/thg_clones6.jpeg)
@@ -170,9 +170,9 @@ Here, I'm using rice cooker that common in Indonesia
 
 You can make this earlier and leave it marinated for a night
 
-1. Chicken and all the ingredients except onions mixed. Make sure the seasoning is evenly distributed. You can keep the chicken in the freezer or marinated for a night in refrigerator
-2. Heat the oil on pan in medium heat. Put onions and cooked it.
-3.  After the onion is spread, put the chicken. Don't forget to flip the chicken. My best practice to know if the chicken is cooked if its no longer wet or no water comes out from the chickens
+1. Chicken and all the ingredients except onions mixed. Make sure the seasoning is evenly distributed. You can keep the chicken in the freezer or marinate it for a night in the refrigerator
+2. Heat the oil on the pan in medium heat. Put onions and cooked them.
+3.  After the onion is spread, put the chicken. Don't forget to flip the chicken. My best practice is to know if the chicken is cooked if its no longer wet or no water comes out from the chickens
 
 ![chicken1](Pictures/Meals/thg_clones3.jpeg)
 
@@ -180,7 +180,7 @@ You can make this earlier and leave it marinated for a night
 
 ![chicken3](Pictures/Meals/thg_clones5.jpeg)
 
-And done. The things that I haven't done are adding lemon juice to my chicken, using brasmati rice and make famous the white sauce (I'm pretty sure it was a combination of yoghurt and mayo, but I doubt it).
+And done. The things that I haven't done are adding lemon juice to my chicken, using basmati rice and make famous the white sauce (I'm pretty sure it was a combination of yogurt and mayo, but I doubt it).
 
 ![served](Pictures/Meals/thg_clones1.jpeg)
 ![served](Pictures/Meals/thg_clones2.jpeg)
