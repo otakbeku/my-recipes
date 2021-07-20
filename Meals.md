@@ -128,7 +128,7 @@
 
 ## The Halal Guys Chicken Clone
 
-Note: this recipe is not done yet because of some ingredient is not available when I made it
+***Note**: this recipe is not done yet because of some ingredient is not available when I made it*
 
 ### Ingredients
 
