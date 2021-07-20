@@ -45,6 +45,8 @@
 1. Sometimes I slices the bread (after cooked) into 3x3
 2. Best meal for breakfast. Don't forget to eat fruits too
 
+
+
 ---
 
 ## Fried-noodle Sandwich :bread: :egg:
@@ -112,7 +114,7 @@
 
 ### Steps
 
-1. Melt the butter or margarin on the pan. Cook the onion and onion, add some salt and pepper
+1. Melt the butter or margarin on the pan. Cook the onion and garlic, add some salt and pepper
 2. Pour the flour until it has thick texture then add the milk
 3. Let it boil for a sec then add the potatoes. Cover the pan for 17 minutes or untill the potatoes is softened. Always stir the potatoes or it might get burned to the pan
 4. Add the cheddar cheese and let it melt, buddy
@@ -121,3 +123,66 @@
 ### Additional notes
 
 1. Eat with it scramble eggs!
+
+---
+
+## The Halal Guys Chicken Clone
+
+Note: this recipe is not done yet because of some ingredient is not available when I made it
+
+### Ingredients
+
+**Rice**
+
+- 2 cups (1 cup = 110ml) of rice. Using brasmati rice is recommended. I'm using long-grain rice btw and it's fine
+- Oil, 1-2 tablespoon. I'm using olive oil, but using any vegetable oil should be fine
+- 2 tablespoon caraway. It's recommended to using curmin at the same amount
+- 1 tablespoon tumeric
+- 2 cups of water (220 ml)
+- 1 cups of chicken broth
+- A pinch of salt
+
+**Chicken**
+
+*note*: I forgot to measure this one. I will update this if I make this again.
+
+- boneless chicken chunk
+- oil (1~2 tablespoon)
+- onions, chopped
+- Coriander (~2 teaspoon)
+- Caraway. Again if you have cumin, just use cumin. (~2 teaspoon)
+- Salt, a pinch
+- Black pepper. (~1 teaspoon)
+- Oregano leaves (~1 tablespoon)
+
+Steps
+
+**Rice**
+
+Here, I'm using rice cooker that common in Indonesia
+
+1. Heat the oil on the inner bowl, add tumeric, caraway. Stir well then add chicken broth, water, rice and a pinch of salt. If you're using rice cooker like me, for every period of time, to take a look and stir the rice (? pardon for my poor choice of words). If its already boiled, leave it.
+2. wait till the rice is cooked.
+
+![rice](Pictures\Meals\thg_clones (6).jpeg)
+
+**Chicken**
+
+You can make this earlier and leave it marinated for a night
+
+1. Chicken and all the ingredients except onions mixed. Make sure the seasoning is evenly distributed. You can keep the chicken in the freezer or marinated for a night in refrigerator
+2. Heat the oil on pan in medium heat. Put onions and cooked it.
+3.  After the onion is spread, put the chicken. Don't forget to flip the chicken. My best practice to know if the chicken is cooked if its no longer wet or no water comes out from the chickens
+
+![chicken1](Pictures\Meals\thg_clones (3).jpeg)
+
+![chicken2](Pictures\Meals\thg_clones (4).jpeg)
+
+![chicken3](Pictures\Meals\thg_clones (5).jpeg)
+
+And done. The things that I haven't done are adding lemon juice to my chicken, using brasmati rice and make famous the white sauce (I'm pretty sure it was a combination of yoghurt and mayo, but I doubt it).
+
+![served](Pictures\Meals\thg_clones (1).jpeg)
+![served](Pictures\Meals\thg_clones (2).jpeg)
+
+--
