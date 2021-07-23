@@ -135,11 +135,11 @@
 **Rice**
 
 - 2 cups (1 cup = 110ml) of rice. Using basmati rice is recommended. I'm using long-grain rice btw and it's fine
-- Oil, 1-2 tablespoon. I'm using olive oil, but using any vegetable oil should be fine
-- 2 tablespoon caraway. It's recommended to using curmin at the same amount
-- 1 tablespoon turmeric
+- Oil, 1-2 tablespoons. I'm using olive oil, but using any vegetable oil should be fine
+- 1 tablespoon caraway. It's recommended to using cumin at the same amount
+- 1 tablespoon turmeric. Actually, it's almost 1 tablespoon, don't add to much
 - 2 cups of water (220 ml)
-- 1 cups of chicken broth
+- 1 cup of chicken broth
 - A pinch of salt
 
 **Chicken**
@@ -149,8 +149,8 @@
 - boneless chicken chunk
 - oil (1~2 tablespoon)
 - onions, chopped
-- Coriander (~2 teaspoon)
-- Caraway. Again if you have cumin, just use cumin. (~2 teaspoon)
+- Coriander (~2 teaspoons)
+- Caraway. Again if you have cumin, just use cumin. (~2 teaspoons)
 - Salt, a pinch
 - Black pepper. (~1 teaspoon)
 - Oregano leaves (~1 tablespoon)
